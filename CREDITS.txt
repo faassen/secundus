@@ -1,0 +1,6 @@
+CREDITS
+=======
+
+* Martijn Faassen (creator & lead developer)
+
+* Paul Everitt

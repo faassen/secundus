@@ -1,0 +1,6 @@
+# development
+-e '.[test]'
+radon
+
+# releaser
+zest.releaser[recommended]
